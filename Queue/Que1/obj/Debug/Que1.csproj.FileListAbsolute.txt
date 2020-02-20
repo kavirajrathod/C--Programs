@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Que1\Que1\bin\Debug\Que1.exe.config
+C:\Users\Admin\source\repos\Que1\Que1\bin\Debug\Que1.exe
+C:\Users\Admin\source\repos\Que1\Que1\bin\Debug\Que1.pdb
+C:\Users\Admin\source\repos\Que1\Que1\obj\Debug\Que1.exe
+C:\Users\Admin\source\repos\Que1\Que1\obj\Debug\Que1.pdb

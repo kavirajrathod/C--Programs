@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Ananym\Ananym\bin\Debug\Ananym.exe.config
+C:\Users\Admin\source\repos\Ananym\Ananym\bin\Debug\Ananym.exe
+C:\Users\Admin\source\repos\Ananym\Ananym\bin\Debug\Ananym.pdb
+C:\Users\Admin\source\repos\Ananym\Ananym\obj\Debug\Ananym.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Ananym\Ananym\obj\Debug\Ananym.exe
+C:\Users\Admin\source\repos\Ananym\Ananym\obj\Debug\Ananym.pdb

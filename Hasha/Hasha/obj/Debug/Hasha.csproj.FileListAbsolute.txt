@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Hasha\Hasha\bin\Debug\Hasha.exe.config
+C:\Users\Admin\source\repos\Hasha\Hasha\bin\Debug\Hasha.exe
+C:\Users\Admin\source\repos\Hasha\Hasha\bin\Debug\Hasha.pdb
+C:\Users\Admin\source\repos\Hasha\Hasha\obj\Debug\Hasha.exe
+C:\Users\Admin\source\repos\Hasha\Hasha\obj\Debug\Hasha.pdb

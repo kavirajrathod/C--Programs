@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<bookstore>
+<books>
+  <book>
+  <id> 123 </id>
+  <name> C# </name>
+  <price> 200 </price>
+ </book>
+
+<book>
+  <id> 234 </id>
+  <name> JAVA </name>
+  <price> 500 </price>
+</book>
+
+  <book>
+    <id> 345 </id>
+    <name> Python </name>
+    <price> 300 </price>
+  </book>
+
+ </books>
+ </bookstore>

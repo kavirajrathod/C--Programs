@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Collectoins\Collectoins\bin\Debug\Collectoins.exe.config
+C:\Users\Admin\source\repos\Collectoins\Collectoins\bin\Debug\Collectoins.exe
+C:\Users\Admin\source\repos\Collectoins\Collectoins\bin\Debug\Collectoins.pdb
+C:\Users\Admin\source\repos\Collectoins\Collectoins\obj\Debug\Collectoins.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Collectoins\Collectoins\obj\Debug\Collectoins.exe
+C:\Users\Admin\source\repos\Collectoins\Collectoins\obj\Debug\Collectoins.pdb

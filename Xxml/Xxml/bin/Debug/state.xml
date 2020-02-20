@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Country>
+  <State>
+    <State_Name>Maharashtra</State_Name>
+    <State_Population>23.5 Million</State_Population>
+    <State_Capital>Mumbai</State_Capital>
+  </State>
+  <State>
+    <State_Name>Kerala</State_Name>
+    <State_Population>9.5 Million</State_Population>
+    <State_Capital>Tiruanantpuram</State_Capital>
+  </State>
+</Country>

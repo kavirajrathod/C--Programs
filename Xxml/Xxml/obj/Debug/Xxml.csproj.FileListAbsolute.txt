@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Xxml\Xxml\bin\Debug\Xxml.exe.config
+C:\Users\Admin\source\repos\Xxml\Xxml\bin\Debug\Xxml.exe
+C:\Users\Admin\source\repos\Xxml\Xxml\bin\Debug\Xxml.pdb
+C:\Users\Admin\source\repos\Xxml\Xxml\obj\Debug\Xxml.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Xxml\Xxml\obj\Debug\Xxml.exe
+C:\Users\Admin\source\repos\Xxml\Xxml\obj\Debug\Xxml.pdb

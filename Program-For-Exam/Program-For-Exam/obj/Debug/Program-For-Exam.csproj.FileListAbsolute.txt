@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Program-For-Exam\Program-For-Exam\bin\Debug\Program-For-Exam.exe.config
+C:\Users\Admin\source\repos\Program-For-Exam\Program-For-Exam\bin\Debug\Program-For-Exam.exe
+C:\Users\Admin\source\repos\Program-For-Exam\Program-For-Exam\bin\Debug\Program-For-Exam.pdb
+C:\Users\Admin\source\repos\Program-For-Exam\Program-For-Exam\obj\Debug\Program-For-Exam.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Program-For-Exam\Program-For-Exam\obj\Debug\Program-For-Exam.exe
+C:\Users\Admin\source\repos\Program-For-Exam\Program-For-Exam\obj\Debug\Program-For-Exam.pdb

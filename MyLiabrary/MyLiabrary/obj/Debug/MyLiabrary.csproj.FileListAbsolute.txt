@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\MyLiabrary\MyLiabrary\bin\Debug\MyLiabrary.exe.config
+C:\Users\Admin\source\repos\MyLiabrary\MyLiabrary\bin\Debug\MyLiabrary.exe
+C:\Users\Admin\source\repos\MyLiabrary\MyLiabrary\bin\Debug\MyLiabrary.pdb
+C:\Users\Admin\source\repos\MyLiabrary\MyLiabrary\bin\Debug\My_Liabrary.dll
+C:\Users\Admin\source\repos\MyLiabrary\MyLiabrary\bin\Debug\My_Liabrary.pdb
+C:\Users\Admin\source\repos\MyLiabrary\MyLiabrary\obj\Debug\MyLiabrary.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MyLiabrary\MyLiabrary\obj\Debug\MyLiabrary.csproj.CopyComplete
+C:\Users\Admin\source\repos\MyLiabrary\MyLiabrary\obj\Debug\MyLiabrary.exe
+C:\Users\Admin\source\repos\MyLiabrary\MyLiabrary\obj\Debug\MyLiabrary.pdb

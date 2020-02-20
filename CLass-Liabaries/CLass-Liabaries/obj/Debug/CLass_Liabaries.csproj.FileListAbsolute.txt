@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\CLass-Liabaries\CLass-Liabaries\bin\Debug\CLass-Liabaries.dll
+C:\Users\Admin\source\repos\CLass-Liabaries\CLass-Liabaries\bin\Debug\CLass-Liabaries.pdb
+C:\Users\Admin\source\repos\CLass-Liabaries\CLass-Liabaries\obj\Debug\CLass-Liabaries.dll
+C:\Users\Admin\source\repos\CLass-Liabaries\CLass-Liabaries\obj\Debug\CLass-Liabaries.pdb

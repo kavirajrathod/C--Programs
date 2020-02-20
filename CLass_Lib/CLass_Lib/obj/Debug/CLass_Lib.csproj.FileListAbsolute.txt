@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\CLass_Lib\CLass_Lib\bin\Debug\CLass_Lib.exe.config
+C:\Users\Admin\source\repos\CLass_Lib\CLass_Lib\bin\Debug\CLass_Lib.exe
+C:\Users\Admin\source\repos\CLass_Lib\CLass_Lib\bin\Debug\CLass_Lib.pdb
+C:\Users\Admin\source\repos\CLass_Lib\CLass_Lib\bin\Debug\CLass-Liabaries.dll
+C:\Users\Admin\source\repos\CLass_Lib\CLass_Lib\bin\Debug\CLass-Liabaries.pdb
+C:\Users\Admin\source\repos\CLass_Lib\CLass_Lib\obj\Debug\CLass_Lib.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CLass_Lib\CLass_Lib\obj\Debug\CLass_Lib.csproj.CopyComplete
+C:\Users\Admin\source\repos\CLass_Lib\CLass_Lib\obj\Debug\CLass_Lib.exe
+C:\Users\Admin\source\repos\CLass_Lib\CLass_Lib\obj\Debug\CLass_Lib.pdb

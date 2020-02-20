@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Del_Event\Del_Event\bin\Debug\Del_Event.exe.config
+C:\Users\Admin\source\repos\Del_Event\Del_Event\bin\Debug\Del_Event.exe
+C:\Users\Admin\source\repos\Del_Event\Del_Event\bin\Debug\Del_Event.pdb
+C:\Users\Admin\source\repos\Del_Event\Del_Event\obj\Debug\Del_Event.exe
+C:\Users\Admin\source\repos\Del_Event\Del_Event\obj\Debug\Del_Event.pdb
+C:\Users\Admin\source\repos\Del_Event\Del_Event\obj\Debug\Del_Event.csprojAssemblyReference.cache

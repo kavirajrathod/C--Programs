@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Lin\Lin\bin\Debug\Lin.exe.config
+C:\Users\Admin\source\repos\Lin\Lin\bin\Debug\Lin.exe
+C:\Users\Admin\source\repos\Lin\Lin\bin\Debug\Lin.pdb
+C:\Users\Admin\source\repos\Lin\Lin\obj\Debug\Lin.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lin\Lin\obj\Debug\Lin.exe
+C:\Users\Admin\source\repos\Lin\Lin\obj\Debug\Lin.pdb

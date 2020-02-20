@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\KaviRaja\KaviRaja\bin\Debug\KaviRaja.exe.config
+C:\Users\Admin\source\repos\KaviRaja\KaviRaja\bin\Debug\KaviRaja.exe
+C:\Users\Admin\source\repos\KaviRaja\KaviRaja\bin\Debug\KaviRaja.pdb
+C:\Users\Admin\source\repos\KaviRaja\KaviRaja\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\KaviRaja\KaviRaja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\KaviRaja\KaviRaja\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\KaviRaja\KaviRaja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\KaviRaja\KaviRaja\obj\Debug\KaviRaja.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\KaviRaja\KaviRaja\obj\Debug\KaviRaja.csproj.CopyComplete
+C:\Users\Admin\source\repos\KaviRaja\KaviRaja\obj\Debug\KaviRaja.exe
+C:\Users\Admin\source\repos\KaviRaja\KaviRaja\obj\Debug\KaviRaja.pdb

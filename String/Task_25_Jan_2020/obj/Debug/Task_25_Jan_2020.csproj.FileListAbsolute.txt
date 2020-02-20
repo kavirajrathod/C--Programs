@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Task_25_Jan_2020\Task_25_Jan_2020\obj\Debug\Task_25_Jan_2020.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Task_25_Jan_2020\Task_25_Jan_2020\bin\Debug\Task_25_Jan_2020.exe.config
+C:\Users\Admin\source\repos\Task_25_Jan_2020\Task_25_Jan_2020\bin\Debug\Task_25_Jan_2020.exe
+C:\Users\Admin\source\repos\Task_25_Jan_2020\Task_25_Jan_2020\bin\Debug\Task_25_Jan_2020.pdb
+C:\Users\Admin\source\repos\Task_25_Jan_2020\Task_25_Jan_2020\obj\Debug\Task_25_Jan_2020.exe
+C:\Users\Admin\source\repos\Task_25_Jan_2020\Task_25_Jan_2020\obj\Debug\Task_25_Jan_2020.pdb

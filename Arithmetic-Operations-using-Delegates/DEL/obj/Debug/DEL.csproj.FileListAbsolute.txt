@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\DEL\DEL\bin\Debug\DEL.exe.config
+C:\Users\Admin\source\repos\DEL\DEL\bin\Debug\DEL.exe
+C:\Users\Admin\source\repos\DEL\DEL\bin\Debug\DEL.pdb
+C:\Users\Admin\source\repos\DEL\DEL\obj\Debug\DEL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DEL\DEL\obj\Debug\DEL.exe
+C:\Users\Admin\source\repos\DEL\DEL\obj\Debug\DEL.pdb

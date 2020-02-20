@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Filee\Filee\obj\Debug\Filee.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Filee\Filee\bin\Debug\Filee.exe.config
+C:\Users\Admin\source\repos\Filee\Filee\bin\Debug\Filee.exe
+C:\Users\Admin\source\repos\Filee\Filee\bin\Debug\Filee.pdb
+C:\Users\Admin\source\repos\Filee\Filee\bin\Debug\ControlzEx.dll
+C:\Users\Admin\source\repos\Filee\Filee\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\source\repos\Filee\Filee\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\source\repos\Filee\Filee\bin\Debug\ControlzEx.xml
+C:\Users\Admin\source\repos\Filee\Filee\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\source\repos\Filee\Filee\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\source\repos\Filee\Filee\obj\Debug\Filee.csproj.CopyComplete
+C:\Users\Admin\source\repos\Filee\Filee\obj\Debug\Filee.exe
+C:\Users\Admin\source\repos\Filee\Filee\obj\Debug\Filee.pdb

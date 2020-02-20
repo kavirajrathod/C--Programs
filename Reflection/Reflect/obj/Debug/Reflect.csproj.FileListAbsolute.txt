@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Reflect\Reflect\bin\Debug\Reflect.exe.config
+C:\Users\Admin\source\repos\Reflect\Reflect\bin\Debug\Reflect.exe
+C:\Users\Admin\source\repos\Reflect\Reflect\bin\Debug\Reflect.pdb
+C:\Users\Admin\source\repos\Reflect\Reflect\obj\Debug\Reflect.exe
+C:\Users\Admin\source\repos\Reflect\Reflect\obj\Debug\Reflect.pdb

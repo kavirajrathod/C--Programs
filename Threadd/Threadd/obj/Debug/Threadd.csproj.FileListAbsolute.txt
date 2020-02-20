@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Threadd\Threadd\bin\Debug\Threadd.exe.config
+C:\Users\Admin\source\repos\Threadd\Threadd\bin\Debug\Threadd.exe
+C:\Users\Admin\source\repos\Threadd\Threadd\bin\Debug\Threadd.pdb
+C:\Users\Admin\source\repos\Threadd\Threadd\obj\Debug\Threadd.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Threadd\Threadd\obj\Debug\Threadd.exe
+C:\Users\Admin\source\repos\Threadd\Threadd\obj\Debug\Threadd.pdb

@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\My_Liabrary\My_Liabrary\bin\Debug\My_Liabrary.dll
+C:\Users\Admin\source\repos\My_Liabrary\My_Liabrary\bin\Debug\My_Liabrary.pdb
+C:\Users\Admin\source\repos\My_Liabrary\My_Liabrary\obj\Debug\My_Liabrary.dll
+C:\Users\Admin\source\repos\My_Liabrary\My_Liabrary\obj\Debug\My_Liabrary.pdb

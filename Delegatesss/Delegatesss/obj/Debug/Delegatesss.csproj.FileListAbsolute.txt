@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Delegatesss\Delegatesss\bin\Debug\Delegatesss.exe.config
+C:\Users\Admin\source\repos\Delegatesss\Delegatesss\bin\Debug\Delegatesss.exe
+C:\Users\Admin\source\repos\Delegatesss\Delegatesss\bin\Debug\Delegatesss.pdb
+C:\Users\Admin\source\repos\Delegatesss\Delegatesss\obj\Debug\Delegatesss.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Delegatesss\Delegatesss\obj\Debug\Delegatesss.exe
+C:\Users\Admin\source\repos\Delegatesss\Delegatesss\obj\Debug\Delegatesss.pdb

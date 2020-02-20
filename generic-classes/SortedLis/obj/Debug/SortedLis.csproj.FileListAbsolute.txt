@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\SortedLis\SortedLis\bin\Debug\SortedLis.exe.config
+C:\Users\Admin\source\repos\SortedLis\SortedLis\bin\Debug\SortedLis.exe
+C:\Users\Admin\source\repos\SortedLis\SortedLis\bin\Debug\SortedLis.pdb
+C:\Users\Admin\source\repos\SortedLis\SortedLis\obj\Debug\SortedLis.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SortedLis\SortedLis\obj\Debug\SortedLis.exe
+C:\Users\Admin\source\repos\SortedLis\SortedLis\obj\Debug\SortedLis.pdb

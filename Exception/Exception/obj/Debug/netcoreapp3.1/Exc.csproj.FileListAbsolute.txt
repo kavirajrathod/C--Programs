@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exc.exe
+C:\Users\Admin\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exc.deps.json
+C:\Users\Admin\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exc.runtimeconfig.json
+C:\Users\Admin\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exc.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exc.dll
+C:\Users\Admin\source\repos\Exception\Exception\bin\Debug\netcoreapp3.1\Exc.pdb
+C:\Users\Admin\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exc.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exc.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exc.dll
+C:\Users\Admin\source\repos\Exception\Exception\obj\Debug\netcoreapp3.1\Exc.pdb

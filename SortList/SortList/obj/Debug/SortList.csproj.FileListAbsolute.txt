@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\SortList\SortList\bin\Debug\SortList.exe.config
+C:\Users\Admin\source\repos\SortList\SortList\bin\Debug\SortList.exe
+C:\Users\Admin\source\repos\SortList\SortList\bin\Debug\SortList.pdb
+C:\Users\Admin\source\repos\SortList\SortList\obj\Debug\SortList.exe
+C:\Users\Admin\source\repos\SortList\SortList\obj\Debug\SortList.pdb

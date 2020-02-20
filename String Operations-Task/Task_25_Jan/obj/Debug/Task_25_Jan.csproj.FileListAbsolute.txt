@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Task_25_Jan\Task_25_Jan\bin\Debug\Task_25_Jan.exe.config
+C:\Users\Admin\source\repos\Task_25_Jan\Task_25_Jan\bin\Debug\Task_25_Jan.exe
+C:\Users\Admin\source\repos\Task_25_Jan\Task_25_Jan\bin\Debug\Task_25_Jan.pdb
+C:\Users\Admin\source\repos\Task_25_Jan\Task_25_Jan\obj\Debug\Task_25_Jan.exe
+C:\Users\Admin\source\repos\Task_25_Jan\Task_25_Jan\obj\Debug\Task_25_Jan.pdb
+C:\Users\Admin\source\repos\Task_25_Jan\Task_25_Jan\obj\Debug\Task_25_Jan.csprojAssemblyReference.cache

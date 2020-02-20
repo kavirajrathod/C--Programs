@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Stringg_classes\Stringg_classes\bin\Debug\netcoreapp3.1\Stringg_classes.exe
+C:\Users\Admin\source\repos\Stringg_classes\Stringg_classes\bin\Debug\netcoreapp3.1\Stringg_classes.deps.json
+C:\Users\Admin\source\repos\Stringg_classes\Stringg_classes\bin\Debug\netcoreapp3.1\Stringg_classes.runtimeconfig.json
+C:\Users\Admin\source\repos\Stringg_classes\Stringg_classes\bin\Debug\netcoreapp3.1\Stringg_classes.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Stringg_classes\Stringg_classes\bin\Debug\netcoreapp3.1\Stringg_classes.dll
+C:\Users\Admin\source\repos\Stringg_classes\Stringg_classes\bin\Debug\netcoreapp3.1\Stringg_classes.pdb
+C:\Users\Admin\source\repos\Stringg_classes\Stringg_classes\obj\Debug\netcoreapp3.1\Stringg_classes.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Stringg_classes\Stringg_classes\obj\Debug\netcoreapp3.1\Stringg_classes.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Stringg_classes\Stringg_classes\obj\Debug\netcoreapp3.1\Stringg_classes.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Stringg_classes\Stringg_classes\obj\Debug\netcoreapp3.1\Stringg_classes.dll
+C:\Users\Admin\source\repos\Stringg_classes\Stringg_classes\obj\Debug\netcoreapp3.1\Stringg_classes.pdb

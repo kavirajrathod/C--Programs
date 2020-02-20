@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Indexerr\Indexerr\bin\Debug\Indexerr.exe.config
+C:\Users\Admin\source\repos\Indexerr\Indexerr\bin\Debug\Indexerr.exe
+C:\Users\Admin\source\repos\Indexerr\Indexerr\bin\Debug\Indexerr.pdb
+C:\Users\Admin\source\repos\Indexerr\Indexerr\obj\Debug\Indexerr.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Indexerr\Indexerr\obj\Debug\Indexerr.exe
+C:\Users\Admin\source\repos\Indexerr\Indexerr\obj\Debug\Indexerr.pdb

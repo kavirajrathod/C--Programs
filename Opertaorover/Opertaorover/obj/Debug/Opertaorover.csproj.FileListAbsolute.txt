@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Opertaorover\Opertaorover\bin\Debug\Opertaorover.exe.config
+C:\Users\Admin\source\repos\Opertaorover\Opertaorover\bin\Debug\Opertaorover.exe
+C:\Users\Admin\source\repos\Opertaorover\Opertaorover\bin\Debug\Opertaorover.pdb
+C:\Users\Admin\source\repos\Opertaorover\Opertaorover\obj\Debug\Opertaorover.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Opertaorover\Opertaorover\obj\Debug\Opertaorover.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Opertaorover\Opertaorover\obj\Debug\Opertaorover.exe
+C:\Users\Admin\source\repos\Opertaorover\Opertaorover\obj\Debug\Opertaorover.pdb
